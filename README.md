@@ -1,2 +1,2 @@
 # git-github
-Prcatice for Git and GIthub
+Practice for Git and GIthub
